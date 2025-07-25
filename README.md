@@ -28,7 +28,7 @@ A simple Python program that generates secure random passwords based on your pre
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/password-generator.git
+    git clone https://github.com/Richie_code631/password-generator.git
     cd password-generator
     ```
 2. Run the script:
